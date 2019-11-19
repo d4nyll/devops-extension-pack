@@ -1,0 +1,44 @@
+{
+    "name": "devops-extension-pack",
+    "displayName": "DevOps Extension Pack",
+    "publisher": "d4nyll",
+    "description": "Adds language support for Go, HCL (HashiCorp Configuration Language), JSON, Jsonnet, Markdown, Ruby, XML and YAML. Integrates with tools like Chef, Docker, Git, GitHub, Gradle, Kubernetes, Logstash, NGINX, Puppet, and Terraform",
+    "repository": "https://github.com/d4nyll/devops-extension-pack.git",
+    "icon": "gears.png",
+    "version": "0.1.0",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "chef-software.chef",
+        "ms-azuretools.vscode-docker",
+        "eamodio.gitlens",
+        "ms-vscode.go",
+        "naco-siren.gradle-language",
+        "wholroyd.hcl",
+        "github.vscode-pull-request-github",
+        "qezhu.gitlink",
+        "ivory-lab.jenkinsfile-support",
+        "eriklynd.json-tools",
+        "heptio.jsonnet",
+        "ms-kubernetes-tools.vscode-kubernetes-tools",
+        "ipedrazas.kubernetes-snippets",
+        "randomchance.logstash",
+        "DavidAnson.vscode-markdownlint",
+        "william-voyek.vscode-nginx",
+        "raynigon.nginx-formatter",
+        "ibm.output-colorizer",
+        "jpogran.puppet-vscode",
+        "rebornix.ruby",
+        "castwide.solargraph",
+        "mauve.terraform",
+        "bbenoist.vagrant",
+        "marcostazi.vs-code-vagrantfile",
+        "redhat.vscode-yaml",
+        "dotjoshjohnson.xml",
+        "compilenix.vscode-zonefile"
+    ]
+}
