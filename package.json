@@ -13,6 +13,7 @@
         "Extension Packs"
     ],
     "extensionPack": [
+        "vscoss.vscode-ansible",
         "chef-software.chef",
         "ms-azuretools.vscode-docker",
         "eamodio.gitlens",

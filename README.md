@@ -15,6 +15,7 @@ This extension pack adds basic language support for:
 
 It provides basic integrations with tools like:
 
+- Ansible
 - Chef
 - Docker
 - Git
