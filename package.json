@@ -40,5 +40,6 @@
         "redhat.vscode-yaml",
         "dotjoshjohnson.xml",
         "compilenix.vscode-zonefile"
-    ]
+    ],
+    "license": "MIT"
 }
