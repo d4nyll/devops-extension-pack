@@ -5,7 +5,7 @@
     "description": "Adds language support for Go, HCL (HashiCorp Configuration Language), JSON, Jsonnet, Markdown, Ruby, XML and YAML. Integrates with tools like Chef, Docker, Git, GitHub, Gradle, Kubernetes, Logstash, NGINX, Puppet, and Terraform",
     "repository": "https://github.com/d4nyll/devops-extension-pack.git",
     "icon": "gears.png",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "engines": {
         "vscode": "^1.40.0"
     },
