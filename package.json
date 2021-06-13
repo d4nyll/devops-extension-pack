@@ -40,7 +40,8 @@
         "marcostazi.vs-code-vagrantfile",
         "redhat.vscode-yaml",
         "dotjoshjohnson.xml",
-        "compilenix.vscode-zonefile"
+        "compilenix.vscode-zonefile",
+        "vsls-contrib.gistfs"
     ],
     "license": "MIT"
 }
