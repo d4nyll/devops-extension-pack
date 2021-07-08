@@ -19,6 +19,7 @@
         "eamodio.gitlens",
         "ms-vscode.go",
         "naco-siren.gradle-language",
+        "richardwillis.vscode-gradle",
         "wholroyd.hcl",
         "github.vscode-pull-request-github",
         "qezhu.gitlink",
