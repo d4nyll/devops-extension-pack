@@ -24,7 +24,7 @@
         "qezhu.gitlink",
         "ivory-lab.jenkinsfile-support",
         "eriklynd.json-tools",
-        "heptio.jsonnet",
+        "Grafana.vscode-jsonnet",
         "ms-kubernetes-tools.vscode-kubernetes-tools",
         "ipedrazas.kubernetes-snippets",
         "randomchance.logstash",
